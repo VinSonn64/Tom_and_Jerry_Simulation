@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/TomSprite.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/JerrySprite.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/TomSprite2.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/TomSprite3.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/TomSprite4.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/TomSprite5.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/TomSprite6.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/TomSprite7.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/TomSprite8.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/TomRunSprite1.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/TomRunSprite2.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/TomRunSprite3.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/TomRunSprite4.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/TomRunSprite5.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/TomRunSprite6.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/JerrySprite1.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/JerrySprite2.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/JerrySprite3.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/JerrySprite4.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/JerrySprite5.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/JerrySprite6.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/JerrySprite7.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/JerrySprite8.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/JerrySprite9.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/JerryRunSprite1.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/JerryRunSprite2.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/JerryRunSprite3.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/JerryRunSprite4.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/JerryRunSprite5.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/JerryRunSprite6.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/JerryRunSprite7.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/JerryRunSprite8.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/myfont.spritefont</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/SpriteMarker.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/mouse hole.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/Cheese.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/JerryLoseSprite.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/JerryWinSprite.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/TomLoseSprite.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/TomWinSprite.png</File>
+    <File>D:/GameProgramming/Tom&amp;Jerry/TomandJerryMonoGame/TomandJerrySimulation/Content/ScoreBoard.png</File>
+  </SourceFiles>
+</SourceFileCollection>
